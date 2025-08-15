@@ -1,8 +1,4 @@
-# Sales-Data-Analysis-and-Visualization
 
-Here’s the updated version with the **“Why This Matters”** section included so it reads like a polished portfolio project:
-
----
 
 **Dashboards – UAE Sales Insights**
 

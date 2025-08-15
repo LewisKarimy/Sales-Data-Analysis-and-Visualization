@@ -1,7 +1,3 @@
-
-
-**Dashboards – UAE Sales Insights**
-
 *This project uses sample business data to demonstrate my skills in building clear, interactive dashboards for decision-making. The scenario is presented as if I were analyzing a real company’s UAE sales performance to uncover key business insights.*
 
 The dashboard answers questions like:
